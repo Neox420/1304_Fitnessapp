@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SchulterActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="314dp"
+        android:layout_height="29dp"
+        android:text="Pike Push-Up"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.095" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="333dp"
+        android:layout_height="122dp"
+        android:text="1. Beginne in der Position des herabschauenden Hundes, indem du deine Handflächen und Fußspitzen auf dem Boden oder auf einer Erhöhung platzierst. Stelle sicher, dass dein Kopf eine Verlängerung deines Rückens bildet und dass dein Rücken gerade ist. Der Unter- und Oberkörper sollten einen rechten Winkel bilden."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.167" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="313dp"
+        android:layout_height="38dp"
+        android:text="2. Halte deine Arme eng neben Brust und Kopf."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.418"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.323" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="322dp"
+        android:layout_height="92dp"
+        android:layout_marginBottom="412dp"
+        android:text="3. Wenn du die einfache Variante machst, überspringe diesen Schritt. Wenn du die Variante mit der Bank machst, platziere deine Füße auf einer Bank, um die Schwierigkeit und Belastung der Muskulatur zu erhöhen."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.46"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="317dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="316dp"
+        android:text="4. Beuge nun deine Ellenbogen und senke deinen Oberkörper in Richtung Boden oder Bank ab. Atme dabei ein."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.446"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="310dp"
+        android:layout_height="56dp"
+        android:text="5. Drücke dich dann wieder hoch und strecke deine Arme, während du ausatmest."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.405"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.638" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="293dp"
+        android:layout_height="53dp"
+        android:text="6. Wiederhole die Übung für die gewünschte Anzahl an Wiederholungen."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.355"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.734" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

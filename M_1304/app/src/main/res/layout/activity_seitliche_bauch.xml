@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SeitlicheBauchActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="125dp"
+        android:layout_height="31dp"
+        android:text="Criss-Cross-Crunch"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.12" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="333dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="556dp"
+        android:text="1. Leg dich auf den Rücken und winkle deine Beine an, so dass sie einen 90-Grad-Winkel bilden."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="333dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="500dp"
+        android:text="2. Nimm deine Fingerspitzen an den Hinterkopf, strecke die Ellenbogen weit nach außen und spanne den Bauch fest an."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="333dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="444dp"
+        android:text="3. Ziehe dein linkes Knie in Richtung Oberkörper und strecke gleichzeitig dein rechtes Bein nach vorne aus."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="333dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="388dp"
+        android:text="4. Hebe deinen Oberkörper an und schiebe deinen rechten Ellenbogen zum linken Knie."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="333dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="332dp"
+        android:text="5. Wiederhole dies 15-mal auf jeder Seite für insgesamt 3 Sätze."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

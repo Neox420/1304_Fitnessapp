@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Oberschenkel">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="125dp"
+        android:layout_height="31dp"
+        android:text="Ausfallschritt"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.12" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="316dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="556dp"
+        android:text="1. Starte im aufrechten Stand, mit den Füßen unterhalb der Hüftgelenke und maximal schulterbreit auseinander."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.536"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="308dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="476dp"
+        android:text="2. Gehe mit einem Bein einen weiten Schritt nach vorne und achte darauf, dass Knie und Knöchel auf einer Höhe sind."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="297dp"
+        android:layout_height="87dp"
+        android:layout_marginBottom="388dp"
+        android:text="3. Im Ausfallschritt angekommen, drücke dich mit der Ferse deines vorderen Beins vom Boden ab und kehre zurück in die Ausgangsposition."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.447"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="303dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="344dp"
+        android:text="4. Wechsle das Bein und führe die Übung mit dem anderen Bein durch."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.472"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="309dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="284dp"
+        android:text="5. Achte darauf, stabil zu bleiben und nicht zu wackeln. Dafür musst du den Bauch fest anspannen und aufrecht im Oberkörper bleiben."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="306dp"
+        android:layout_height="79dp"
+        android:layout_marginBottom="204dp"
+        android:text="6. Wiederhole die Übung für die gewünschte Anzahl von Wiederholungen oder wechsle zwischen den Beinen für eine bestimmte Zeit.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="298dp"
+        android:layout_height="126dp"
+        android:layout_marginBottom="76dp"
+        android:text="7. Hinweis: Es ist wichtig, dass du die Übung langsam und kontrolliert ausführst, um Verletzungen zu vermeiden und die maximale Wirkung zu erzielen. Halte deine Knie und Knöchel während der gesamten Bewegung auf einer Höhe und achte auf eine gute Körperhaltung."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.442"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

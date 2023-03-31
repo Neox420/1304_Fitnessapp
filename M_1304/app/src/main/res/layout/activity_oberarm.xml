@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OberarmActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="125dp"
+        android:layout_height="31dp"
+        android:text="Military Plank"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.12" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="332dp"
+        android:layout_height="71dp"
+        android:layout_marginBottom="556dp"
+        android:text="1. Beginne in einer Unterarmstützposition auf dem Boden, indem du deine Ellenbogen unterhalb deiner Schultern platzierst und deinen Bauch und Gesäß anspannst."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.645"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="339dp"
+        android:layout_height="61dp"
+        android:layout_marginBottom="496dp"
+        android:text="2. Positioniere deine Hände auf dem Boden, wo deine Ellenbogen zuvor platziert waren, um in den hohen Stütz auf deinen Handflächen zu kommen."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.708"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="297dp"
+        android:layout_height="87dp"
+        android:layout_marginBottom="412dp"
+        android:text="3. Hebe deine rechte Hand vom Boden ab und platziere sie genau dort, wo dein rechter Ellenbogen zuvor war. Wiederhole diesen Schritt mit deiner linken Hand."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.447"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="283dp"
+        android:layout_height="71dp"
+        android:layout_marginBottom="340dp"
+        android:text="4. Achte darauf, dass du immer noch Bauch und Gesäß angespannt hältst und deine Schultern über deinen Handgelenken positionierst."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.39"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="296dp"
+        android:layout_height="92dp"
+        android:layout_marginBottom="248dp"
+        android:text="5. Gehe jetzt Schritt für Schritt zurück in die Ausgangsposition, indem du zuerst deine rechte Hand auf den Boden legst und dann die linke Hand auf den Boden legst, wo zuvor deine Ellenbogen waren."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.434"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="304dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="200dp"
+        android:text="6. Senke nun deine Ellbogen auf den Boden ab und befinde dich wieder in der Ausgangsposition in der Unterarmstützposition."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.467"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="320dp"
+        android:layout_height="67dp"
+        android:layout_marginBottom="132dp"
+        android:text="7. Wiederhole diese Übung, indem du zwischen der Unterarmstützposition und dem hohen Stütz auf den Handflächen wechselst."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.549"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
